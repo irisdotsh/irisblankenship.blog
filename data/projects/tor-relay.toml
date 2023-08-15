@@ -1,0 +1,3 @@
+name = "Dockerized Tor Middle/Guard Relay"
+description = "I was interested in running a non-exit Tor relay, so I decided to create a dockerized version.  It's super easy to get a non-exit relay up and running.  See the project url for more info."
+url = "https://github.com/irisdotsh/tor-middle-guard-relay"

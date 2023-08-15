@@ -1,0 +1,8 @@
+<a href="{{ "/" | relURL }}" class="title">
+    {{ with .Site.Params.banner }}
+    <img src="{{ . | absURL }}" alt="Banner" />
+    {{ else }}
+    <h2>{{ .Site.Title }}</h2>
+    {{ end }}
+</a>
+<nav>{{- partial "nav.html" . -}}</nav>

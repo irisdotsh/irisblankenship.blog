@@ -1,0 +1,9 @@
+{{ with .Site.Data.projects }}
+<ul class="projects">
+{{ range . }}
+{{ partial "project.html" . }}
+{{ end }}
+</ul>
+{{ else }}
+<p>No projects atm :(</p>
+{{ end }}

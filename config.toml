@@ -1,0 +1,41 @@
+baseURL = "https://irisblankenship.blog"
+
+title = "Iris Blankenship"
+author = "Iris Blankenship"
+copyright = "Copyright © 2023, Iris Blankenship Blog."
+languageCode = "en-US"
+
+enableRobotsTXT = true
+
+[permalinks]
+    blog = "/blog/:slug"
+
+[taxonomies]
+    tag = "tags"
+
+[params]
+    description = "Iris Blankenship's Blog"
+
+    # favicon = "images/favicon.png"
+
+    # images = ["images/share.png"]
+
+    title = "Iris Blankenship"
+
+    # dateFormat = "2006-01-02"
+
+    # If this option is enabled, this banner will be displayed instead of the site title
+    # banner = "images/banner_240x60.png"
+
+[menu]
+    [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 1
+
+    [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 2
