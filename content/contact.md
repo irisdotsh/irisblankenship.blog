@@ -4,9 +4,11 @@ title = "Contact"
 
 ## Contact me
 
-Feel free to email me if you want to talk.  PGP preferred.
+Feel free to reach out to me using any of the services below if you want to talk.  PGP is ok.
 
-Email: iris@netwatchr.com.
+Email: [iris@netwatchr.com](mailto:iris@netwatchr.com).
+Telegram: [irisdotsh](https://telegram.im/@irisdotsh)
+Github: [irisdotsh](https://github.com/irisdotsh)
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----

@@ -1,0 +1,3 @@
+name = "Fern"
+description = "Fern is a CLI tool that navigates to a URL and looks for a search query.  If it finds it, it will highlight the query and screenshot it."
+url = "https://github.com/irisdotsh/fern"
